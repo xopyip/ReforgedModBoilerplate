@@ -1,4 +1,8 @@
+# ReforgedModBoilerplate
+This is a starter mod creation template for Pixelmon Reforged 1.16
 
+
+# FORGE README:
 Source installation information for modders
 -------------------------------------------
 This code follows the Minecraft Forge installation methodology. It will apply
